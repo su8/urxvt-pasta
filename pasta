@@ -1,6 +1,6 @@
 #!/usr/bin/env perl
 # Author:   Aaron Caffrey
-# Website:  https://notabug.org/void0/urxvt-pasta
+# Website:  https://github.com/su8/urxvt-pasta
 # License:  GPLv3
 
 # Usage: put the following lines in your .Xdefaults/.Xresources:
